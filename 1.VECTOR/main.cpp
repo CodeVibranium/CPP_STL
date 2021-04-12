@@ -45,4 +45,20 @@ int main()
     cout<<endl;
     for(int i=0;i<v1.size();i++)
         cout<<v1[i]<<endl;
+    /*
+    What all did we covered
+    1.how to assign data;
+    2.Push_back(what to add);
+    3,Pop_back()
+    3.front();
+    4.back();
+    5.at();
+    6.swap()
+    7.empty()
+    8.size()
+    9.erase()
+    10.Clear()
+    11.iNSERT()
+    
+    */
 }
